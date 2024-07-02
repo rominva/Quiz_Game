@@ -45,4 +45,4 @@ for ans in answers:
     elif ans.quest == questions[3]:
         print("unfortunately you answerd the last question wrongly😞")
 
-print("your score is", "«", score, "»", "out of 4")
+print(f"💙 your score is «{score}» out of «4» 💙")
